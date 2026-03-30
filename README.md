@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there<br><br>Nice meeting you, I'm Garima!<br>🚀Aspiring AI/ML Engineer<br><br>🌱 I’m currently learning about Gen AI<br>💬 Ask me about building new ideas<br>📫How to reach me: LinkedIn - @GarimaKapil,<br>Gmail- geniecodes13@gmail.com<br>⚡ Fun fact: You will always find me doing something
+Hi there<br><br>Nice meeting you, I'm Garima!<br>🚀Aspiring AI/ML Engineer<br><br>🌱 I’m currently learning about Gen AI<br>💬 Ask me about building new ideas<br>📫How to reach me: LinkedIn - @GarimaKapil,<br>Gmail- garimakapil019@gmail.com<br>⚡ Fun fact: You will always find me doing something
 
 
 # 💻 Tech Stack:
